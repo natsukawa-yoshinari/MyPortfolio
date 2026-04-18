@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-uni260418_clicker-1.0";
 const contentToCache = [
-    "Build/bui.loader.js",
-    "Build/bui.framework.js",
-    "Build/bui.data",
-    "Build/bui.wasm",
+    "Build/TestGame.loader.js",
+    "Build/TestGame.framework.js",
+    "Build/TestGame.data",
+    "Build/TestGame.wasm",
     "TemplateData/style.css"
 
 ];
