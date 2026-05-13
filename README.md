@@ -51,4 +51,4 @@ https://natsukawa-yoshinari.github.io/MyPortfolio/Pinball_Game/index.html
 赤側:A, Sキー、青側:k, lキー
 
 ### URL
-https://natsukawa-yoshinari.github.io/MyPortfolio/Pinball_Game/index.html
+https://natsukawa-yoshinari.github.io/MyPortfolio/PaperSUMO_Game/index.html
