@@ -52,3 +52,20 @@ https://natsukawa-yoshinari.github.io/MyPortfolio/Pinball_Game/index.html
 
 ### URL
 https://natsukawa-yoshinari.github.io/MyPortfolio/PaperSumoGame/index.html
+
+## --- 2DFPS ---
+
+### 製作時間
+
+7~10時間
+
+### こだわり
+
+ObjectPoolを用いて遅延を小さくした点。Rigidbodyコンポーネントを使用しない衝突判定を作成した点。
+
+### 操作方法
+
+W:上, A:左:, S:下, D:右 で移動。画面上部の秒数耐えればsurvivedで勝ち。HPバーが0になったら負け。
+
+### URL
+https://natsukawa-yoshinari.github.io/MyPortfolio/2DFPS_Game/index.html
