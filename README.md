@@ -69,3 +69,20 @@ W:上, A:左:, S:下, D:右 で移動。画面上部の秒数耐えればsurvive
 
 ### URL
 https://natsukawa-yoshinari.github.io/MyPortfolio/2DFPSGame/index.html
+
+## --- NattoClicker ---
+
+### 製作時間
+
+3~5時間
+
+### こだわり
+
+アイテムをマウスホバーで詳細が表示されるようにした点。
+
+### 操作方法
+
+真ん中のボタンをクリックしてスコアをためる。アップグレードを繰り返していく。
+
+### URL
+https://natsukawa-yoshinari.github.io/MyPortfolio/NattoClicker_Game/index.html
