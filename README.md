@@ -70,7 +70,7 @@ W:上, A:左:, S:下, D:右 で移動。画面上部の秒数耐えればsurvive
 ### URL
 https://natsukawa-yoshinari.github.io/MyPortfolio/2DFPSGame/index.html
 
-## --- NattoClicker ---
+## --- Clicker ---
 
 ### 製作時間
 
@@ -86,3 +86,20 @@ https://natsukawa-yoshinari.github.io/MyPortfolio/2DFPSGame/index.html
 
 ### URL
 https://natsukawa-yoshinari.github.io/MyPortfolio/NattoClicker_Game/index.html
+
+## --- Maze ---
+
+### 製作時間
+
+3~4時間
+
+### こだわり
+
+迷路の再生成時は迷路の各セルのSpriteRendererを変えるだけにして、再スタートが軽くなるようにした。
+
+### 操作方法
+
+W:上, A:左:, S:下, D:右 で移動。赤色の四角がゴールで、青い☆をとることで緑色になり、ゴールできるようになる。
+
+### URL
+https://natsukawa-yoshinari.github.io/MyPortfolio/Maze_Game/index.html
