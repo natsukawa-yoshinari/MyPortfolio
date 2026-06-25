@@ -120,3 +120,20 @@ Layerを細かく分けて、Ballの衝突判定を取った点。グローブ�
 
 ### URL
 https://natsukawa-yoshinari.github.io/MyPortfolio/CatchBall_Game/index.html
+
+## --- Rhythm Game ---
+
+### 製作時間
+
+6~8時間
+
+### こだわり
+
+CRI ADXを使用したサウンド制御なのだが、WebGLビルドでサウンドに乱れが出てしまった。(Editer上、Windowsビルドでは問題なく再生できた)
+
+### 操作方法
+
+Space: 判定入力, R: サウンドのスキップ(ノーツ配置を20秒付近までしか行っていないため)
+
+### URL
+https://natsukawa-yoshinari.github.io/MyPortfolio/Rhythm_Game/index.html
