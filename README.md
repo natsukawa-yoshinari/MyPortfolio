@@ -137,3 +137,21 @@ Space: 判定入力, R: サウンドのスキップ(ノーツ配置を20秒付�
 
 ### URL
 https://natsukawa-yoshinari.github.io/MyPortfolio/Rhythm_Game/index.html
+
+
+## --- Rhythm Game ---
+
+### 製作時間
+
+8~10時間
+
+### こだわり
+
+ShaderGraphを使った照準線。弾の三すくみ制。
+
+### 操作方法
+
+左クリック: 弾の発射, Q: Circle弾に変更, W: Square弾に変更, E: Triangle弾に変更
+
+### URL
+https://natsukawa-yoshinari.github.io/MyPortfolio/2DShooter_Game/index.html
