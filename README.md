@@ -139,7 +139,7 @@ Space: 判定入力, R: サウンドのスキップ(ノーツ配置を20秒付�
 https://natsukawa-yoshinari.github.io/MyPortfolio/Rhythm_Game/index.html
 
 
-## --- Rhythm Game ---
+## --- 2DShooter Game ---
 
 ### 製作時間
 
