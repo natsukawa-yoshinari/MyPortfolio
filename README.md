@@ -155,3 +155,20 @@ ShaderGraphを使った照準線。弾の三すくみ制。
 
 ### URL
 https://natsukawa-yoshinari.github.io/MyPortfolio/2DShooter_Game/index.html
+
+## --- AngryBird Game ---
+
+### 製作時間
+
+6~8時間
+
+### こだわり
+
+テレポートにも対応した物理挙動の予測線。
+
+### 操作方法
+
+左クリック: 弾の発射, 右クリック: 発射準備状態をキャンセル
+
+### URL
+https://natsukawa-yoshinari.github.io/MyPortfolio/AngryBird_Game/index.html
