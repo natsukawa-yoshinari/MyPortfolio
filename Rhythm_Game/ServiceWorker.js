@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-uni260620_RhythmGame-1.3";
 const contentToCache = [
-    "Build/v1.5.loader.js",
-    "Build/v1.5.framework.js",
-    "Build/v1.5.data",
-    "Build/v1.5.wasm",
+    "Build/v1.3.loader.js",
+    "Build/v1.3.framework.js",
+    "Build/v1.3.data",
+    "Build/v1.3.wasm",
     "TemplateData/style.css"
 
 ];
