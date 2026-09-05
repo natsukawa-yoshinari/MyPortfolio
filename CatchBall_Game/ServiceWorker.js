@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-uni260613_CatchBall-0.1.0";
 const contentToCache = [
-    "Build/v1.0.loader.js",
-    "Build/v1.0.framework.js",
-    "Build/v1.0.data",
-    "Build/v1.0.wasm",
+    "Build/v1.1.loader.js",
+    "Build/v1.1.framework.js",
+    "Build/v1.1.data",
+    "Build/v1.1.wasm",
     "TemplateData/style.css"
 
 ];
